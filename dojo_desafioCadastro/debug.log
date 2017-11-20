@@ -1,0 +1,3 @@
+[0518/163606.284:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0518/163606.296:ERROR:exception_snapshot_win.cc(87)] thread ID 7040 not found in process
+[0518/163606.296:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
